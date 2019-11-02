@@ -1,0 +1,11 @@
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\bin\Debug\netcoreapp2.1\Classes and Objects Test.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\bin\Debug\netcoreapp2.1\Classes and Objects Test.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\bin\Debug\netcoreapp2.1\Classes and Objects Test.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\bin\Debug\netcoreapp2.1\Classes and Objects Test.dll
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\bin\Debug\netcoreapp2.1\Classes and Objects Test.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\obj\Debug\netcoreapp2.1\Classes and Objects Test.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\obj\Debug\netcoreapp2.1\Classes and Objects Test.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\obj\Debug\netcoreapp2.1\Classes and Objects Test.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\obj\Debug\netcoreapp2.1\Classes and Objects Test.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\obj\Debug\netcoreapp2.1\Classes and Objects Test.dll
+F:\MASTER - School Programs\Visual Studio Projects\Classes and Objects Test\obj\Debug\netcoreapp2.1\Classes and Objects Test.pdb
